@@ -1,0 +1,8 @@
+[
+    {"device": "desktop", "width": 1280, "height": 800}, 
+    {"device": "iphone-x", "width": 375, "height": 812},
+    {"device": "ipad-2", "width": 768, "height": 1024},
+    {"device": "macbook-15", "width": 1440, "height": 900},
+    {"device": "samsung-s10", "width": 412, "height": 869},
+    {"device": "nexus-5x", "width": 412, "height": 732}
+]
